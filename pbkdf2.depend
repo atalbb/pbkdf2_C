@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1496684650 source:c:\college\thesis\c projects\pbkdf2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<string.h>
+	"wf_universal_driver.h"
+	"adapter.h"
+
+1496413256 source:c:\college\thesis\c projects\pbkdf2\pbkdf2.c
+	<string.h>
+	<stdint.h>
+	<inttypes.h>
+	"wf_universal_driver.h"
+
+1496412614 c:\college\thesis\c projects\pbkdf2\wf_universal_driver.h
+	<inttypes.h>
+
+1496683459 source:c:\college\thesis\c projects\pbkdf2\wf_connection_algorithm.c
+	<stdio.h>
+	<string.h>
+	"wf_universal_driver.h"
+
+1496685134 source:c:\college\thesis\c projects\pbkdf2\wf_pbkdf2.c
+	<string.h>
+	<stdint.h>
+	<inttypes.h>
+	"wf_universal_driver.h"
+
+1496414435 c:\college\thesis\c projects\pbkdf2\adapter.h
+	<inttypes.h>
+
